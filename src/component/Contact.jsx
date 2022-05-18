@@ -165,7 +165,7 @@ function Contact() {
             <div className="col-md-8">
               <iframe
                 src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3888.1496804011636!2d77.69902171407831!3d12.962272318591872!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae11e6982ac5df%3A0xb52fcb3ad37e0ec3!2sPro%20Stack%20Academy!5e0!3m2!1sen!2sin!4v1652194454415!5m2!1sen!2sin"
-                width="650"
+                width="450"
                 height="450"
               ></iframe>
             </div>
