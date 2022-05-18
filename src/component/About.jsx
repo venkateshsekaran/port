@@ -19,7 +19,7 @@ function About() {
                 src="./img/about1.jpg"
                 alt="venkatesh"
                 height="320px"
-                weight="400px"
+                width="320px"
               />
             </div>
             <div className="col-md-6 my-5">

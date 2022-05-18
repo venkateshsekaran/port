@@ -38,7 +38,7 @@ export default function Home() {
               src="./img/home.jpg"
               alt="venkatesh"
               height="300px"
-              weight="300px"
+              width="400px"
             />
           </div>
         </div>
