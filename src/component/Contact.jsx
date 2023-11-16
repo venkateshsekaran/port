@@ -62,7 +62,7 @@ function Contact() {
                         htmlfor="exampleInputPassword1"
                         className="form-label"
                       >
-                        Full Name
+                        Full Name1
                       </label>
                       <input
                         type="text"
