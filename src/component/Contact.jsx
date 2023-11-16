@@ -28,7 +28,7 @@ function Contact() {
         "service_zq7zknq",
         "template_veo8y8a",
         event.target,
-        "Xg_tjO9a78W68y8gE"
+        "OmmPsW9I2uJFoRl_4vz46"
       )
       .then((res) => {
         console.log(res);
