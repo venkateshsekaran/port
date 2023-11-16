@@ -25,10 +25,10 @@ function Contact() {
     event.preventDefault();
     emailjs
       .sendForm(
-        "service_iwdkhum",
-        "template_574n8bj",
+        "service_zq7zknq",
+        "template_veo8y8a",
         event.target,
-        "5Pb62QrAvipQA5YG9p50-"
+        "Xg_tjO9a78W68y8gE"
       )
       .then((res) => {
         console.log(res);
